@@ -14,5 +14,7 @@ A simple command-line tool written in Go that organizes files in a directory by 
 
 ```shell
 git clone  https://github.com/Maryam-nokohan/Folder_Cleaner.git
+```
+```shell
 go run main.go
 ```
