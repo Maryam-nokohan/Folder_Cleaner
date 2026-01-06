@@ -9,3 +9,10 @@ A simple command-line tool written in Go that organizes files in a directory by 
 - Create a destination folder automatically
 - Move matching files into that folder
 - Uses only Go standard library
+
+# How to use 
+
+```shell
+git clone  https://github.com/Maryam-nokohan/Folder_Cleaner.git
+go run main.go
+```
